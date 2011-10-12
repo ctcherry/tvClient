@@ -3,6 +3,7 @@ This is the start of a VLC based TV remote control script. Work in progress.
 I have this working in Ruby, but I'm porting it to Java for the learning experience.
 
 It works roughly something like this:
+
 - script accepts command line arguments
 - if the command line arguments correspond to a fixed command (ex: stop, pause, etc) then execute it
 - else, the command line arguments are assumed to be search keywords

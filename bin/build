@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac -d . -cp . -sourcepath . VLCClient.java
+javac -d . -cp . -sourcepath . TvClient.java
